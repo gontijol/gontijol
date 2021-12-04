@@ -1,7 +1,7 @@
 # Hi 👋
 
 I am a computer science student looking for opportunities and collabaration in projects related to front-end developer and mobile dev with flutter.
-- 🌱 I’m currently learning Flutter, React, Angular & AngularDart, Ruby on Rails, MySQL.
+- 🌱 I’m currently learning Flutter, React, and GO!.
 - 🤝 I’m looking to collaborate on mobile projects.
 
 ## My Stats 📊

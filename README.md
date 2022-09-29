@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a computer science student looking for opportunities and collabaration in projects related to front-end developer and mobile dev with flutter.
+I am a computer science student and a intern developer at Byebnk.
 - 🌱 I’m currently learning Flutter, React, and GO!.
 - 🤝 I’m looking to collaborate on mobile projects.
 

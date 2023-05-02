@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a computer science student and a developer at Byebnk.
+I am a computer science student and a developer at ATMA Tecnologia
 - 🌱 I’m currently learning Flutter, React, and GO!.
 - 🤝 I’m looking to collaborate on mobile projects.
 

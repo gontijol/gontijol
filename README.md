@@ -15,6 +15,6 @@ I am a computer science student and a developer at ATMA Tecnologia
  <div align="center">
   
 [<img src="https://img.shields.io/badge/Luigi Gontijo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luigigontijo/) [<img src = "https://img.shields.io/badge/Luigi Gontijo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luigigontijo/) [<img src = "https://img.shields.io/badge/Luigi Gontijo-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/luigigontijo)
-[<img src = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://medium.com/@luigi.gontijo)
+[<img  src = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="10px">](https://medium.com/@luigi.gontijo)
 
 </div>

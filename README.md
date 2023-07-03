@@ -1,7 +1,7 @@
 # Hi 👋
 
 I am a computer science student and a developer at ATMA Tecnologia
-- 🌱 I’m currently learning Flutter, React, and GO!.
+- 🌱 I’m currently looking for masterize my Flutter skills.
 - 🤝 I’m looking to collaborate on mobile projects.
 
 ## My Stats 📊

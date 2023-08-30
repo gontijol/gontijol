@@ -3,6 +3,7 @@
 I'm Luigi, a passionate technology enthusiast currently pursuing a degree in Computer Science at UFG. With a strong commitment to becoming a qualified software architect, I'm dedicated to creating robust and scalable systems while continuously expanding my knowledge. My journey has been enriched by three years of Flutter development, where I've honed my coding skills and gained a profound understanding of design principles.
 
 What I Bring to the Table
+
 🚀 Flutter Expertise: With extensive experience in Flutter, I've actively contributed to exciting projects that demand creativity and technical expertise. I understand the importance of coding best practices, interface design, and performance optimization.
 
 📚 Educator: I'm not just a developer; I'm also a Flutter professor at UFG. Through my extension project, I share my knowledge and passion for app development, fostering the growth of fellow students in this exciting field.

@@ -2,18 +2,18 @@
 
 I'm Luigi, a passionate technology enthusiast currently pursuing a degree in Computer Science at UFG. With a strong commitment to becoming a qualified software architect, I'm dedicated to creating robust and scalable systems while continuously expanding my knowledge. My journey has been enriched by three years of Flutter development, where I've honed my coding skills and gained a profound understanding of design principles.
 
-What I Bring to the Table
+## What I Bring to the Table
 
-🚀 Flutter Expertise: With extensive experience in Flutter, I've actively contributed to exciting projects that demand creativity and technical expertise. I understand the importance of coding best practices, interface design, and performance optimization.
+**🚀 Flutter Expertise:** With extensive experience in Flutter, I've actively contributed to exciting projects that demand creativity and technical expertise. I understand the importance of coding best practices, interface design, and performance optimization.
 
-📚 Educator: I'm not just a developer; I'm also a Flutter professor at UFG. Through my extension project, I share my knowledge and passion for app development, fostering the growth of fellow students in this exciting field.
+**📚 Educator:** I'm not just a developer; I'm also a Flutter professor at UFG. Through my extension project, I share my knowledge and passion for app development, fostering the growth of fellow students in this exciting field.
 
-👥 Leadership Skills: As the former president of UFG Eagles, I've honed my leadership and collaboration skills. Working with a team to tackle complex challenges has shaped my approach to solving problems and taught me the significance of teamwork in achieving ambitious goals.
+**👥 Leadership Skills: **As the former president of UFG Eagles, I've honed my leadership and collaboration skills. Working with a team to tackle complex challenges has shaped my approach to solving problems and taught me the significance of teamwork in achieving ambitious goals.
 
-My Vision and Ambition
+**My Vision and Ambition**
 I firmly believe that technology holds the key to addressing modern challenges, and I'm excited to contribute innovative solutions that enhance efficiency and connectivity. My goal is to bridge the gap between cutting-edge technology and real-world applications, building a brighter digital future for all.
 
-Let's Connect!
+**Let's Connect!**
 I'm always eager to learn, collaborate, and exchange knowledge in the ever-evolving tech landscape. Whether you're interested in discussing groundbreaking ideas, embarking on exciting collaborations, or simply sharing insights, feel free to connect with me. Together, we can shape an extraordinary digital landscape!
 
 📫 Reach out to me via linkedin

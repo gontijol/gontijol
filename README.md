@@ -29,7 +29,9 @@ Let's build something incredible! 🚀
 
 
 <div align="center">
+ 
  [![Check out gontijol's profile on stardev.io](https://stardev.io/developers/gontijol/badge/languages/locality.svg)](https://stardev.io/developers/gontijol)
+ 
 </div>
 
  <div align="center">

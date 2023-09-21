@@ -28,7 +28,10 @@ Let's build something incredible! 🚀
 ## My Stats 📊
 
 
-[![Check out gontijol's profile on stardev.io](https://stardev.io/developers/gontijol/badge/languages/country.svg)](https://stardev.io/developers/gontijol)
+<div align="center">
+ [![Check out gontijol's profile on stardev.io](https://stardev.io/developers/gontijol/badge/languages/locality.svg)](https://stardev.io/developers/gontijol)
+</div>
+
  <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gontijol&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

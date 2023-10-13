@@ -20,13 +20,11 @@ I firmly believe that technology holds the key to addressing modern challenges, 
 
 I'm always eager to learn, collaborate, and exchange knowledge in the ever-evolving tech landscape. Whether you're interested in discussing groundbreaking ideas, embarking on exciting collaborations, or simply sharing insights, feel free to connect with me. Together, we can shape an extraordinary digital landscape!
 
-📫 Reach out to me via linkedin
+📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/luigigontijo).
 
 Let's build something incredible! 🚀
 
-
 ## My Stats 📊
-
 
 <div align="center">
  
@@ -46,3 +44,5 @@ Let's build something incredible! 🚀
 [<img  src = "https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png?&style=for-the-badge&logo=facebook&logoColor=white" height="50px">](https://medium.com/@luigi.gontijo)
 
 </div>
+
+**_Currently, I am a full-time Flutter Developer._**

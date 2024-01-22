@@ -38,6 +38,7 @@ Let's build something incredible! 🚀
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gontijol&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gontijol)](https://git.io/streak-stats)
  </div>
   
  <div align="center">

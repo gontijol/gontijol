@@ -36,13 +36,10 @@ Let's build something incredible! 🚀
 
  <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gontijol&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gontijol&show_icons=true&theme=tokyonight)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
- <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
- </div>
   
  <div align="center">
   

@@ -40,7 +40,6 @@ Let's build something incredible! 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gontijol)](https://github.com/anuraghazra/github-readme-stats)
   
  <div align="center">
   

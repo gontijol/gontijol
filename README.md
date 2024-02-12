@@ -44,6 +44,7 @@ Let's build something incredible! 🚀
   
 [<img src="https://img.shields.io/badge/Luigi Gontijo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luigigontijo/) [<img src = "https://img.shields.io/badge/Luigi Gontijo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luigicodes/) 
 	[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luigi.gontijo)
+
 </div>
 
 

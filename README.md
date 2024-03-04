@@ -28,7 +28,11 @@ Let's build something incredible! 🚀
 
 ## My Stats 📊
 
+<div align="center">
+ 
+(https://stardev.io/developers/gontijol)[![GitHub Streak](https://streak-stats.demolab.com?user=gontijol&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
+</div>
 
  <div align="center">
   
@@ -42,5 +46,4 @@ Let's build something incredible! 🚀
 	[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luigi.gontijo)
 
 </div>
-
 

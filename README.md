@@ -30,7 +30,7 @@ Let's build something incredible! 🚀
 
 <div align="center">
  
-(https://stardev.io/developers/gontijol)[![GitHub Streak](https://streak-stats.demolab.com?user=gontijol&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gontijol&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
 </div>
 
